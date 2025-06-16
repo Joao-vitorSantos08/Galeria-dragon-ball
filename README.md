@@ -57,7 +57,7 @@ Projeto feito com meu professor no curso de JavaScript. Utilizamos uma API de Dr
 ## 🛠 Tecnologias
 
 - **HTML**: Estruturação do conteúdo e elementos da página.  
-- **CSS**: Estilização e layout responsivo.  
+- **CSS**: Estilização.  
 - **JavaScript**: Usado para consumir a API e criar dinamicamente os cards dos personagens com `fetch`, `forEach`, `createElement` e `appendChild`. 
 - **Git**: Sistema de controle de versão para gerenciamento de alterações no código.  
 - **GitHub**: Plataforma de hospedagem para o repositório do projeto.
