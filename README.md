@@ -32,7 +32,7 @@ Projeto feito com meu professor no curso de JavaScript. Utilizamos uma API de Dr
 ## 🎨 Layout
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](thumbnail-dragon-ball.png)
+![Mobile1](thumbnail-galeria-dragon-ball.png)
 
 ---
 
